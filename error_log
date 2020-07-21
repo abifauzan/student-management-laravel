@@ -1,0 +1,2 @@
+[14-Mar-2018 10:34:45 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/exploor2/public_html/db-siswa/framework/app/Http/Controllers/AdminController.php on line 595
+[14-Mar-2018 10:45:08 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/exploor2/public_html/db-siswa/framework/app/Http/Controllers/AdminController.php on line 595
